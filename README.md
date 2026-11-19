@@ -1,7 +1,5 @@
 # Excel Budget Tracker & Spending Analysis Dashboard
 
-Excel project to track income and expenses, monitor savings performance and identify the cost drivers of a household budget, from daily transactions up to a 6-year trend view.
-
 ## Executive Summary
 
 Good financial decisions start with the same discipline as good operations management: define the KPIs, track them consistently and look for the cost drivers. This project applies that approach to personal finance. I built a multi-sheet Excel workbook for a hypothetical household that records daily transactions, consolidates them into monthly and yearly views and turns them into an interactive dashboard with pivot tables, slicers, dynamic charts and dropdown lookups. The workbook covers 6 years of yearly income and expense history (2019-2024), a month-by-month view of 2019, a detailed transaction log and a separate trip budget.
