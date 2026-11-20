@@ -86,8 +86,6 @@ The trip budget totals €767. Flight and hotel represent 58% of it. 75% of the 
 
 ## Recommendations
 
-*Written for the hypothetical user of this budget.*
-
 - **Focus on fixed costs first:** Utilities and Transport represent about 58% of spending, so a review of insurance, utility and transport contracts has more impact than cutting small discretionary purchases.
 - **Automate savings:** Savings contributions fell while the surplus grew. Setting a fixed transfer at the start of each month, as a share of income, would protect the savings goal.
 - **Budget for seasonality:** July and December run 12-23% above the monthly average. Setting aside a fixed monthly amount for them avoids drawing on that month's balance.
